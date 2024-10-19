@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Gabe</h1>
 
-<!--
-**gabe-serna/gabe-serna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stack
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,vercel,supabase" alt="HTML, CSS, Javascript, Typescript, React, Next.js, TailwindCSS, Vercel, Supabase">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stats
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabe-serna&theme=vision-friendly-dark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-serna&layout=compact&theme=vision-friendly-dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+  </a>
+</p>
