@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,vercel,supabase" alt="HTML, CSS, Javascript, Typescript, React, Next.js, TailwindCSS, Vercel, Supabase">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react,nextjs,threejs,nodejs" alt="HTML, CSS, Javascript, Typescript, TailwindCSS, React, Next.js, Three,js, Node.js">
   </a>
 </p>
 
