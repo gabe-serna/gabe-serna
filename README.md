@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## My stats
+## My Stats
 
 <p align="center">
   <a href="#">
